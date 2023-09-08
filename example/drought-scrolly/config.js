@@ -27,7 +27,7 @@ var config = {
                     opacity: 0.0
                 },
                 {
-                    layer: 'nijmegen',
+                    layer: 'siggyf-nijmegen-w34-w18',
                     opacity: 0.0
                 }
             ],
@@ -76,10 +76,9 @@ var config = {
             },
             onChapterEnter: [
                 {
-                    layer: 'nijmegen',
+                    layer: 'siggyf-nijmegen-w34-w18',
                     opacity: 0.0
                 }
-
             ],
             onChapterExit: [
             ]
@@ -99,7 +98,7 @@ var config = {
             },
             onChapterEnter: [
                 {
-                    layer: 'nijmegen',
+                    layer: 'siggyf-nijmegen-w34-w18',
                     opacity: 0.0
                 }
 
@@ -122,7 +121,7 @@ var config = {
             },
             onChapterEnter: [
                 {
-                    layer: 'nijmegen',
+                    layer: 'siggyf-nijmegen-w34-w18',
                     opacity: 0.0
                 }
 
@@ -209,7 +208,7 @@ var config = {
                     opacity: 0.0
                 },
                 {
-                    layer: 'nijmegen',
+                    layer: 'siggyf-nijmegen-w34-w18',
                     opacity: 0.0
                 }
             ],
@@ -243,7 +242,7 @@ var config = {
                     opacity: 0
                 },
                 {
-                    layer: 'nijmegen',
+                    layer: 'siggyf-nijmegen-w34-w18',
                     opacity: 0
                 }
 
@@ -256,7 +255,7 @@ var config = {
             ]
         },
         {
-            id: '6a-ais',
+            id: '6c-ais',
             alignment: 'right',
             title: 'Krapte op de Rijn',
             classes: ['box'],
@@ -278,13 +277,13 @@ var config = {
                     opacity: 0
                 },
                 {
-                    layer: 'nijmegen',
+                    layer: 'siggyf-nijmegen-w34-w18',
                     opacity: 1
                 }
             ],
             onChapterExit: [
                 {
-                    layer: 'nijmegen',
+                    layer: 'siggyf-nijmegen-w34-w18',
                     opacity: 0.0
                 }
             ]
