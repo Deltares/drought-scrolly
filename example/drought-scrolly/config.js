@@ -27,7 +27,7 @@ var config = {
                     opacity: 0.0
                 },
                 {
-                    layer: 'nijmegen',
+                    layer: 'siggyf-nijmegen-w34-w18',
                     opacity: 0.0
                 }
             ],
@@ -76,10 +76,9 @@ var config = {
             },
             onChapterEnter: [
                 {
-                    layer: 'nijmegen',
+                    layer: 'siggyf-nijmegen-w34-w18',
                     opacity: 0.0
                 }
-
             ],
             onChapterExit: [
             ]
@@ -99,7 +98,7 @@ var config = {
             },
             onChapterEnter: [
                 {
-                    layer: 'nijmegen',
+                    layer: 'siggyf-nijmegen-w34-w18',
                     opacity: 0.0
                 }
 
@@ -122,7 +121,7 @@ var config = {
             },
             onChapterEnter: [
                 {
-                    layer: 'nijmegen',
+                    layer: 'siggyf-nijmegen-w34-w18',
                     opacity: 0.0
                 }
 
@@ -136,7 +135,7 @@ var config = {
             alignment: 'right',
             classes: ['box'],
             title: 'Meer reizen, minder lading',
-            image: 'images/figures/ivs-trends2.png',
+            image: 'images/figures/ivs-trips-trends.png',
             description: 'Door de beperkte waterdiepte op de route naar Duitsland, konden schepen minder vracht meenemen. Er waren ruim 2x zoveel trips nodig om lading van Rotterdam naar Duitsland te vervoeren. ',
             location: {
                 center: [5.32039, 51.57223],
@@ -209,7 +208,7 @@ var config = {
                     opacity: 0.0
                 },
                 {
-                    layer: 'nijmegen',
+                    layer: 'siggyf-nijmegen-w34-w18',
                     opacity: 0.0
                 }
             ],
@@ -243,7 +242,7 @@ var config = {
                     opacity: 0
                 },
                 {
-                    layer: 'nijmegen',
+                    layer: 'siggyf-nijmegen-w34-w18',
                     opacity: 0
                 }
 
@@ -256,17 +255,17 @@ var config = {
             ]
         },
         {
-            id: '6a-ais',
+            id: '6c-ais',
             alignment: 'right',
             title: 'Krapte op de Rijn',
             classes: ['box'],
             image: '',
             description: 'Deze kaart laat het verschil zien tussen een normale week en de droge week (week 38). In de blauwe gebieden zijn meer scheepvaart berichten verstuurd. In de groene berichten zijn minder schepen gesignaleerd. ',
             location: {
-                center: [5.86498, 51.85151],
-                zoom: 15.39,
-                pitch: 72.37,
-                bearing: -69.59
+                center: [5.83907, 51.86361],
+                zoom: 13.71,
+                pitch: 73.44,
+                bearing: 109.26
             },
             onChapterEnter: [
                 {
@@ -278,13 +277,13 @@ var config = {
                     opacity: 0
                 },
                 {
-                    layer: 'nijmegen',
+                    layer: 'siggyf-nijmegen-w34-w18',
                     opacity: 1
                 }
             ],
             onChapterExit: [
                 {
-                    layer: 'nijmegen',
+                    layer: 'siggyf-nijmegen-w34-w18',
                     opacity: 0.0
                 }
             ]
