@@ -262,10 +262,10 @@ var config = {
             image: '',
             description: 'Deze kaart laat het verschil zien tussen een normale week en de droge week (week 38). In de blauwe gebieden zijn meer scheepvaart berichten verstuurd. In de groene berichten zijn minder schepen gesignaleerd. ',
             location: {
-                center: [5.86498, 51.85151],
-                zoom: 15.39,
-                pitch: 72.37,
-                bearing: -69.59
+                center: [5.83907, 51.86361],
+                zoom: 13.71,
+                pitch: 73.44,
+                bearing: 109.26
             },
             onChapterEnter: [
                 {
