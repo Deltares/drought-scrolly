@@ -1,5 +1,5 @@
 var config = {
-    style: 'mapbox://styles/siggyf/cld8o2gqx002r01qovvuc72q2',
+    style: 'mapbox://styles/siggyf/clmaic1ft017o01pb883z3gzf',
     accessToken: 'pk.eyJ1Ijoic2lnZ3lmIiwiYSI6Il8xOGdYdlEifQ.3-JZpqwUa3hydjAJFXIlMA',
     showMarkers: false,
     theme: 'dark',
@@ -27,7 +27,7 @@ var config = {
                     opacity: 0.0
                 },
                 {
-                    layer: 'siggyf-nijmegen-w34-w18',
+                    layer: 'nijmegen',
                     opacity: 0.0
                 }
             ],
@@ -40,7 +40,7 @@ var config = {
             classes: ['box'],
             title: 'Sneeuwtekort',
             image: '',
-            description: 'Het jaar 2022 was droog. Maar waarom was het droog? De droogte begon al in de lente. Er lag weinig sneeuw in de Alpen. In het rode gebied lag in mei tot 40 cm minder sneeuw dan gemiddeld over de voorgaande 30 jaar. Aangezien de gemsmolten sneeuw een aanzienlijk aandeel is in de totale afvoer van de Rijn, hadden we een mogelijke droogte al vroegtijdig kunnen zien aankomen.',
+            description: 'Het jaar 2022 was droog. Maar waarom was het droog? De droogte begon al in de lente. Er lag weinig sneeuw in de Alpen. In het rode gebied lag in mei tot 40 cm minder sneeuw dan gemiddeld over de voorgaande 30 jaar. Aangezien de gesmolten sneeuw een aanzienlijk aandeel is in de totale afvoer van de Rijn, hadden we een mogelijke droogte al vroegtijdig kunnen zien aankomen.',
             location: {
                 center: [8, 48],
                 zoom: 5,
@@ -76,7 +76,7 @@ var config = {
             },
             onChapterEnter: [
                 {
-                    layer: 'siggyf-nijmegen-w34-w18',
+                    layer: 'nijmegen',
                     opacity: 0.0
                 }
             ],
@@ -98,7 +98,7 @@ var config = {
             },
             onChapterEnter: [
                 {
-                    layer: 'siggyf-nijmegen-w34-w18',
+                    layer: 'nijmegen',
                     opacity: 0.0
                 }
 
@@ -121,7 +121,7 @@ var config = {
             },
             onChapterEnter: [
                 {
-                    layer: 'siggyf-nijmegen-w34-w18',
+                    layer: 'nijmegen',
                     opacity: 0.0
                 }
 
@@ -208,7 +208,7 @@ var config = {
                     opacity: 0.0
                 },
                 {
-                    layer: 'siggyf-nijmegen-w34-w18',
+                    layer: 'nijmegen',
                     opacity: 0.0
                 }
             ],
@@ -242,7 +242,7 @@ var config = {
                     opacity: 0
                 },
                 {
-                    layer: 'siggyf-nijmegen-w34-w18',
+                    layer: 'nijmegen',
                     opacity: 0
                 }
 
@@ -277,13 +277,13 @@ var config = {
                     opacity: 0
                 },
                 {
-                    layer: 'siggyf-nijmegen-w34-w18',
+                    layer: 'nijmegen',
                     opacity: 1
                 }
             ],
             onChapterExit: [
                 {
-                    layer: 'siggyf-nijmegen-w34-w18',
+                    layer: 'nijmegen',
                     opacity: 0.0
                 }
             ]
