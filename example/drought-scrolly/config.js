@@ -135,7 +135,7 @@ var config = {
             alignment: 'right',
             classes: ['box'],
             title: 'Meer reizen, minder lading',
-            image: 'images/figures/ivs-trends2.png',
+            image: 'images/figures/ivs-trips-trends.png',
             description: 'Door de beperkte waterdiepte op de route naar Duitsland, konden schepen minder vracht meenemen. Er waren ruim 2x zoveel trips nodig om lading van Rotterdam naar Duitsland te vervoeren. ',
             location: {
                 center: [5.32039, 51.57223],
