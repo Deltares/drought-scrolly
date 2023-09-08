@@ -27,7 +27,7 @@ var config = {
                     opacity: 0.0
                 },
                 {
-                    layer: 'siggyf-nijmegen-w34-w18',
+                    layer: 'nijmegen',
                     opacity: 0.0
                 }
             ],
@@ -76,7 +76,7 @@ var config = {
             },
             onChapterEnter: [
                 {
-                    layer: 'siggyf-nijmegen-w34-w18',
+                    layer: 'nijmegen',
                     opacity: 0.0
                 }
             ],
@@ -98,7 +98,7 @@ var config = {
             },
             onChapterEnter: [
                 {
-                    layer: 'siggyf-nijmegen-w34-w18',
+                    layer: 'nijmegen',
                     opacity: 0.0
                 }
 
@@ -121,7 +121,7 @@ var config = {
             },
             onChapterEnter: [
                 {
-                    layer: 'siggyf-nijmegen-w34-w18',
+                    layer: 'nijmegen',
                     opacity: 0.0
                 }
 
@@ -208,7 +208,7 @@ var config = {
                     opacity: 0.0
                 },
                 {
-                    layer: 'siggyf-nijmegen-w34-w18',
+                    layer: 'nijmegen',
                     opacity: 0.0
                 }
             ],
@@ -242,7 +242,7 @@ var config = {
                     opacity: 0
                 },
                 {
-                    layer: 'siggyf-nijmegen-w34-w18',
+                    layer: 'nijmegen',
                     opacity: 0
                 }
 
@@ -277,13 +277,13 @@ var config = {
                     opacity: 0
                 },
                 {
-                    layer: 'siggyf-nijmegen-w34-w18',
+                    layer: 'nijmegen',
                     opacity: 1
                 }
             ],
             onChapterExit: [
                 {
-                    layer: 'siggyf-nijmegen-w34-w18',
+                    layer: 'nijmegen',
                     opacity: 0.0
                 }
             ]
